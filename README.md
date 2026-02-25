@@ -27,13 +27,6 @@ Este es mi portafolio web personal, una vitrina digital donde muestro quién soy
 ## 🌱 Objetivo del proyecto
 
 Crear una identidad digital que comunique quién soy sin filtros ni fórmulas vacías. Este sitio no es solo un portafolio, es una carta de presentación con alma: útil, funcional y con esencia propia.
-
----
-
-## 📍 Enlace en vivo
-
-👉 [https://msantiagoas.github.io/sntg.studio](https://msantiagoas.github.io/sntg.studio)
-
 ---
 
 ## 📬 Contacto
